@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1383096898 source:c:\users\william\documents\proyectos code blocks\ejemploherencia\main.cpp
+	<iostream>
+	<vector>
+	"Personaje.h"
+	"Curador.h"
+	"Tanque.h"
+	"Guerrero.h"
+	"MagoBlanco.h"
+	"MagoOscuro.h"
+
+1383096324 c:\users\william\documents\proyectos code blocks\ejemploherencia\personaje.h
+	<iostream>
+	<string>
+
+1383096995 source:c:\users\william\documents\proyectos code blocks\ejemploherencia\personaje.cpp
+	"Personaje.h"
+
+1383089286 source:c:\users\william\documents\proyectos code blocks\ejemploherencia\curador.cpp
+	"Curador.h"
+
+1383085870 c:\users\william\documents\proyectos code blocks\ejemploherencia\curador.h
+	"Personaje.h"
+	<iostream>
+	<string>
+
+1383089165 source:c:\users\william\documents\proyectos code blocks\ejemploherencia\tanque.cpp
+	"Tanque.h"
+
+1383088617 c:\users\william\documents\proyectos code blocks\ejemploherencia\tanque.h
+	"Personaje.h"
+	<iostream>
+	<string>
+
+1383000488 source:c:\users\william\documents\proyectos code blocks\ejemploherencia\enemigo.cpp
+	"Enemigo.h"
+
+1383000408 c:\users\william\documents\proyectos code blocks\ejemploherencia\enemigo.h
+	"Jugador.h"
+
+1383000408 c:\users\william\documents\proyectos code blocks\ejemploherencia\jugador.h
+
+1383000408 source:c:\users\william\documents\proyectos code blocks\ejemploherencia\jugador.cpp
+	"Jugador.h"
+
+1383089165 source:c:\users\william\documents\proyectos code blocks\ejemploherencia\guerrero.cpp
+	"Guerrero.h"
+
+1383087608 c:\users\william\documents\proyectos code blocks\ejemploherencia\guerrero.h
+	"Personaje.h"
+	<iostream>
+	<string>
+
+1383094816 source:c:\users\william\documents\proyectos code blocks\ejemploherencia\magoblanco.cpp
+	"MagoBlanco.h"
+
+1383094993 c:\users\william\documents\proyectos code blocks\ejemploherencia\magoblanco.h
+	"Personaje.h"
+	<iostream>
+	<string>
+
+1383096712 source:c:\users\william\documents\proyectos code blocks\ejemploherencia\magooscuro.cpp
+	"MagoOscuro.h"
+
+1383096664 c:\users\william\documents\proyectos code blocks\ejemploherencia\magooscuro.h
+	"Personaje.h"
+	<iostream>
+	<string>
+
